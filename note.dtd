@@ -1,0 +1,3 @@
+<!ELEMENT author ANY>
+<!ENTITY writer "Donald Duck.">
+<!ENTITY copyright "Copyright W3Schools.">
